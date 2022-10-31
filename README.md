@@ -1,11 +1,11 @@
 # EXPLORATORY DATA ANALYSIS - TIC2000
 
 ## Machine Learning - 1st practice
-###Autores:
+### Autores:
 - David Rivero: david.rivero@cunef.edu
 - Saúl Segura: saul.segura@cunef.edu
 
-###Objetivos de la practica:
+### Objetivos de la practica:
 El objetivo de la práctica es llevar a cabo un análisis exploratorio de datos sobre un Dataset ``ticdata2000.txt`` compuesto por 5822 observaciones de 86 variables diferentes, con el objetivo de predecir si un cliente va a contratar una póliza de seguro de autocaravana, expresada en la variable ``CARAVAN``.
 
 ## Índice de contenido:
