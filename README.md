@@ -14,10 +14,6 @@ El objetivo de la práctica es llevar a cabo un análisis exploratorio de datos 
 3. Funciones
 4. Carga de datos
 5. Analisis generales de la tabla de entrenamiento
-5.1. Dimensión
-5.2. Tipos de datos
-5.3. Analisis de la existencia de datos missing y nulos
-5.4. Analisis de columnas duplicadas
 6. Tratamiento de outliers
 7. Variables categoricas y variables numericas
 8. Tratamiento de las variables numericas
