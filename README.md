@@ -22,5 +22,5 @@ El objetivo de la práctica es llevar a cabo un análisis exploratorio de datos 
 11. Variables a analizar
 
 ## Repositorio: 
-#####https://github.com/saulsegura/tarea_EDA
+https://github.com/saulsegura/tarea_EDA
 
